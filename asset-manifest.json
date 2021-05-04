@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fatihaelk/Blog-React.git/static/css/main.75046fcf.chunk.css",
+    "main.js": "/fatihaelk/Blog-React.git/static/js/main.68c3034d.chunk.js",
+    "main.js.map": "/fatihaelk/Blog-React.git/static/js/main.68c3034d.chunk.js.map",
+    "runtime-main.js": "/fatihaelk/Blog-React.git/static/js/runtime-main.99a670ca.js",
+    "runtime-main.js.map": "/fatihaelk/Blog-React.git/static/js/runtime-main.99a670ca.js.map",
+    "static/js/2.7b4be19f.chunk.js": "/fatihaelk/Blog-React.git/static/js/2.7b4be19f.chunk.js",
+    "static/js/2.7b4be19f.chunk.js.map": "/fatihaelk/Blog-React.git/static/js/2.7b4be19f.chunk.js.map",
+    "index.html": "/fatihaelk/Blog-React.git/index.html",
+    "static/css/main.75046fcf.chunk.css.map": "/fatihaelk/Blog-React.git/static/css/main.75046fcf.chunk.css.map",
+    "static/js/2.7b4be19f.chunk.js.LICENSE.txt": "/fatihaelk/Blog-React.git/static/js/2.7b4be19f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99a670ca.js",
+    "static/js/2.7b4be19f.chunk.js",
+    "static/css/main.75046fcf.chunk.css",
+    "static/js/main.68c3034d.chunk.js"
+  ]
+}
